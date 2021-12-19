@@ -1,0 +1,83 @@
+body{
+  background-color: #69DADB;
+}
+
+.container-fluid{
+  padding: 5% 10%;
+}
+
+.title{
+  background-color: #fff;
+}
+.container-fluid{
+  padding: 5% 10%;
+}
+
+
+.logo{
+  font-size: 2rem;
+}
+
+.nav-button{
+  color: #193498;
+}
+
+.nav-button:hover{
+  color:rgb(97, 183, 255);
+}
+
+.nav-item{
+  padding: 0px 18px;
+}
+
+.nav-link{
+  color: #193498;
+  font-size: 1.2rem;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 400;
+
+}
+
+/* MAIN BODY  */
+
+.main-body{
+  text-align: center;
+  color: #fff;
+}
+
+
+
+#socials{
+  background-color:#fff
+}
+
+.social-icons{
+  text-align: center;
+  
+}
+
+.s-icons{
+  padding: 2% 2%;
+  color: #69DADB
+}
+
+.fa-twitter:hover{
+  color:#151560
+}
+
+.fa-facebook:hover{
+  color:#4545eb
+}
+
+.fa-instagram:hover{
+  color:#ff00d8
+}
+
+.fa-whatsapp:hover{
+  color:#32ff00
+}
+
+.copyright{
+  color:#69DADB;
+  text-align: center;
+}
